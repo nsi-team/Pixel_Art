@@ -5,14 +5,11 @@
     </head>
 
   <body>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
-</form><img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+</form>
+<img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
 <img class="project-pic" src="https://i.imgur.com/feMxjOm.gif" style="width: 150px;" />
 <img class="project-pic" src="https://steamuserimages-a.akamaihd.net/ugc/271724616138907790/0ADCB64947688CCD966377BC795C6A1FCEFB3F96/" style="width: 150px;" />
 <p></p>

@@ -21,7 +21,7 @@
 <p></p>
 <img class="project-pic" src="https://www.jonathan-menet.fr/blog/wp-content/uploads/2019/05/Pixel-art-motocross-Saito_5.gif" style="width: 150px;" />
 <img class="project-pic" src="https://www.humanafterhal.com/wp-content/uploads/dream_by_kirokaze_pixelart_futur.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media.giphy.com/media/3oz8xOJiQ9VtnOKAIU/giphy.gif" style="width: 150px;" />
+<img class="project-pic" src="https://media.giphy.com/media/3oz8xOJiQ9VtnOKAIU/giphy.gif" style="width: 50px;" />
 <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
     <p> </p>

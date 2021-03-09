@@ -17,9 +17,9 @@
 <img class="project-pic" src="https://trancentral.tv/wp-content/uploads/2016/05/tumblr_naijtnYkeu1qhccbco1_1280.gif" style="width: 150px;" />
 <img class="project-pic" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" style="width: 150px;" />
 <p></p>
-<img class="project-pic" src="https://media.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media.giphy.com/media/3ov9k27tmt0r5z5B16/giphy.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media.giphy.com/media/Qs9Ypq2X6ZyZq/giphy.gif" style="width: 150px;" />
+<img class="project-pic" src="https://www.jonathan-menet.fr/blog/wp-content/uploads/2019/05/Pixel-art-motocross-Saito_5.gif" style="width: 150px;" />
+<img class="project-pic" src="https://www.humanafterhal.com/wp-content/uploads/dream_by_kirokaze_pixelart_futur.gif" style="width: 150px;" />
+<img class="project-pic" src="https://lh3.googleusercontent.com/proxy/cgBpeIkDiV1AmgR5aNyslor3shqwzEofMEDMCcYLN0DQrX8d81kXaYf-_Im9lXtV8aRSBsvgABtiJi37Db2zfmO6aLhq_0MUi_Jh1fkKADjj6AwKsYH0i-bu_Hx4Wux_FBFVnasm1w4WZSNiFmB-i_fphAAFW_sk4Q" style="width: 150px;" />
 <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
     <p> </p>
